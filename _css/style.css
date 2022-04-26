@@ -1,0 +1,93 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: Arial;
+}
+
+#container{
+    margin: 0 auto;
+    width: 1050px;
+    height: 616px;
+}
+
+#banner{
+    width: 100%;
+    height: 178px;
+    margin: 0 auto ;
+    background-color: white;
+    color: white;
+}
+
+#link{
+    width: 150px;
+    height: 800px;
+    background: rgba(43, 99, 172, 0.582);
+    margin-left: 0px;
+}
+
+#texto{
+    width: 300px;
+    height: 800px;
+    line-height: 2.0;
+    margin-top: -800px;
+    margin-left: 150px;
+    background: rgb(138, 138, 47);
+}
+
+#footer{
+    width: 79.5%;
+    height: 50px;
+    margin: 0 auto;
+    text-align: center;
+    border: solid;
+    color: red;
+    
+}
+
+#imagem1{
+    width: 280px;
+    height: 131px;
+    margin:  auto ;
+    margin-top: 30px; 
+   
+}
+
+#imagem3{
+    width: 690px;
+    height: 300px;
+    margin-top: 10px;   
+}
+
+#video1{
+    width: 300px;
+    height: 400px;
+    background: green;
+    margin-top: -800px;
+    margin-left: 450px;
+}
+#video2{
+    width: 300px;
+    height: 400px;
+    background: rgb(38, 0, 128);
+    margin-top: -400px;
+    margin-left: 750px;
+}
+#video3{
+    width: 300px;
+    height: 400px;
+    background: rgb(128, 119, 0);
+    margin-top: 0px;
+    margin-left: 450px;
+}
+#video4{
+    width: 300px;
+    height: 400px;
+    background: rgb(172, 17, 17);
+    margin-top: -400px;
+    margin-left: 750px;
+}
+
+#itens{
+    margin-left: 50px;
+    line-height: 10.0;
+}
